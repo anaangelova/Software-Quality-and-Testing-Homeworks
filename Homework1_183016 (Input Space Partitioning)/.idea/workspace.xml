@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="536701cf-3515-4b8d-84a9-74cb21106c19" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1tULpiHQxTPmXDFEo67nikPNAkb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SetClassFunctionalityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework1_183016" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SetClassFunctionalityTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SetClassFunctionalityTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="536701cf-3515-4b8d-84a9-74cb21106c19" name="Default Changelist" comment="" />
+      <created>1622818906657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622818906657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Plugins" timestamp="1622819482235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1622819482235" />
+    <state x="275" y="25" key="#Project_Structure" timestamp="1622819006602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1622819006601" />
+    <state x="358" y="76" key="FileChooserDialogImpl" timestamp="1622820167110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="358" y="76" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622820167110" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1622819215832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622819215832" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1622820026842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1622820026842" />
+    <state x="387" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1622818984204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1622818984204" />
+    <state x="65" y="0" key="new project wizard" timestamp="1622820232534">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1622820232534" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1622819476188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1622819476188" />
+  </component>
+</project>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2020edc-7dcc-43d1-8413-4d126282083f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sQwBvnzlwrpz8NKPoje0nb3HRE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="code" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ConferenceTest">
+    <configuration name="ConferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab05_183016" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code" />
+      <option name="MAIN_CLASS_NAME" value="code.ConferenceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConferenceTest.calculateTotalPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab05_183016" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code" />
+      <option name="MAIN_CLASS_NAME" value="code.ConferenceTest" />
+      <option name="METHOD_NAME" value="calculateTotalPriceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConferenceTest.getAttendeesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab05_183016" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code" />
+      <option name="MAIN_CLASS_NAME" value="code.ConferenceTest" />
+      <option name="METHOD_NAME" value="getAttendeesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConferenceTest.testMultiplication" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab05_183016" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code" />
+      <option name="MAIN_CLASS_NAME" value="code.ConferenceTest" />
+      <option name="METHOD_NAME" value="testMultiplication" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConferenceTest.testPersonToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab05_183016" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="code" />
+      <option name="MAIN_CLASS_NAME" value="code.ConferenceTest" />
+      <option name="METHOD_NAME" value="testPersonToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="PIT" factoryName="PIT Runner" REPORT_DIR="$PROJECT_DIR$/report" SOURCE_DIRS="$PROJECT_DIR$/src" TARGET_CLASSES="code.*" TARGET_TESTS="" otherParams="--outputFormats XML,HTML" nameIsGenerated="true">
+      <module name="Lab05_183016" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PIT" factoryName="PIT Runner" REPORT_DIR="$PROJECT_DIR$/report" SOURCE_DIRS="$PROJECT_DIR$/src" TARGET_CLASSES="code.*" TARGET_TESTS="" otherParams="--outputFormats XML,HTML">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ConferenceTest" />
+      <item itemvalue="JUnit.ConferenceTest.calculateTotalPriceTest" />
+      <item itemvalue="JUnit.ConferenceTest.getAttendeesTest" />
+      <item itemvalue="JUnit.ConferenceTest.testMultiplication" />
+      <item itemvalue="JUnit.ConferenceTest.testPersonToString" />
+      <item itemvalue="PIT Runner.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConferenceTest" />
+        <item itemvalue="JUnit.ConferenceTest.testMultiplication" />
+        <item itemvalue="JUnit.ConferenceTest.testPersonToString" />
+        <item itemvalue="JUnit.ConferenceTest.getAttendeesTest" />
+        <item itemvalue="JUnit.ConferenceTest.calculateTotalPriceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2020edc-7dcc-43d1-8413-4d126282083f" name="Default Changelist" comment="" />
+      <created>1620817988314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620817988314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Plugins" timestamp="1622821504436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Plugins/0.0.1366.728@0.0.1366.728" timestamp="1622821504436" />
+    <state x="275" y="25" key="#Project_Structure" timestamp="1620818682316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1620818682316" />
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620818162581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1620818162581" />
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1620818060060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="145" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1620818060060" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1620818600725">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1620818600725" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1622821588939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1622821588939" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1622821588939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1622821588939" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1622821588939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1622821588939" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1622821588939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1622821588939" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1620818612022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620818612022" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1622821657194">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1622821657194" />
+    <state x="388" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1620818748079">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="388" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1620818748079" />
+    <state x="454" y="84" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1620818116132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="84" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1620818116132" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1620978261078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1620978261078" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$ConferenceTest.ic" NAME="ConferenceTest Coverage Results" MODIFIED="1620818293075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>code.*</FILTER>
+    </SUITE>
+  </component>
+</project>

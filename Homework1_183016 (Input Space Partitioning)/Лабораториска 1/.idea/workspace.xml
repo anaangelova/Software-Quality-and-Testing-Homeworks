@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cbf192a-8087-4f9a-bef0-4a196d463ee6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1plJL4UTNlzVdiAcP4IbdDOL1ID" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SetClass">
+    <configuration name="SetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetClass" />
+      <module name="Лабораториска 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetClassFunctionalityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Лабораториска 1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SetClassFunctionalityTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetClassFunctionalityTest.testBaseChoice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Лабораториска 1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SetClassFunctionalityTest" />
+      <option name="METHOD_NAME" value="testBaseChoice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetClassInterfaceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Лабораториска 1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SetClassInterfaceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetClassInterfaceTest.testException2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Лабораториска 1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SetClassInterfaceTest" />
+      <option name="METHOD_NAME" value="testException2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SetClass" />
+        <item itemvalue="JUnit.SetClassFunctionalityTest" />
+        <item itemvalue="JUnit.SetClassFunctionalityTest.testBaseChoice" />
+        <item itemvalue="JUnit.SetClassInterfaceTest" />
+        <item itemvalue="JUnit.SetClassInterfaceTest.testException2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cbf192a-8087-4f9a-bef0-4a196d463ee6" name="Default Changelist" comment="" />
+      <created>1615751684012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615751684012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1615753728556">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1615753728556" />
+    <state x="462" y="108" key="FileChooserDialogImpl" timestamp="1618341446766">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618341446766" />
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom" timestamp="1616191735517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616191735517" />
+    <state width="1323" height="145" key="GridCell.Tab.0.center" timestamp="1616191735517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616191735517" />
+    <state width="1323" height="145" key="GridCell.Tab.0.left" timestamp="1616191735516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616191735516" />
+    <state width="1323" height="145" key="GridCell.Tab.0.right" timestamp="1616191735517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616191735517" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1622817008180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1622817008180" />
+    <state x="387" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1615755096520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="265" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1615755096520" />
+    <state x="454" y="84" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1616190986800">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="454" y="84" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1616190986800" />
+    <state x="65" y="0" key="new project wizard" timestamp="1618341454570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1618341454570" />
+  </component>
+</project>
